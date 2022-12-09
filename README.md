@@ -1,6 +1,5 @@
 - Hi! I’m Mikayla Billings-Alston
 - I'm a Computer Science student at Chico State
-- I really enjoy food and drawing
 - Hope you enjoy your stay!
 
 <!---
